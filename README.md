@@ -1,3 +1,0 @@
-# Certificates
-
-## First Commit
