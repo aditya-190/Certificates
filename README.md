@@ -1,2 +1,2 @@
 # Certificates
-These are all the certs i got while studying.
+All Certificates Collected While Learning.
